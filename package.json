@@ -1,9 +1,9 @@
 {
-  "name": "UltraRP launcher",
+  "name": "c",
   "version": "1.20.1",
   "productName": "UltraRP launcher",
   "description": "UltraRP est un luncher minecraft pour le serveur solo leveling en 1.20.1",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/) et votre nom",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Just-Horus/UltraRPluncher",
   "bugs": {
@@ -48,5 +48,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Just-Horus/UltraRPluncher.git"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
